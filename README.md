@@ -1,8 +1,5 @@
 Header
 
-
-
-
 - 🔭 I’m currently working on studschool
 - 🌱 I’m currently learning Java and Python
 - 💬 Ask me about Django and Datacom
