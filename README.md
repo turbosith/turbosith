@@ -1,8 +1,9 @@
-
+Danila Evdokimov
 - 🔭 I’m currently working on studschool
 - 🌱 I’m currently learning Java and Python
 - 💬 Ask me about Django and Datacom
 - ⚡ Fun facts: I love skateboarding, table tennis and fortnite
+- 📫 How to reach me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Turbo4442)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/_tuurbo_)
