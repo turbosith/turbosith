@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Danila+Evdokimov)]
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Danila+Evdokimov)
 - 🔭 I’m currently working on [studschool](https://github.com/turbosith/studshkola)
 - 🌱 I’m currently learning Java and Python
 - 💬 Ask me about Django and Datacom
