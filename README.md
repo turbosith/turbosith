@@ -1,5 +1,5 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Danila+Evdokimov)
-- 🔭 I’m currently working on [studschool]([https://github.com/turbosith/studshkola](https://github.com/turbosith/loan_applications/tree/dev))
+- 🔭 I’m currently working on [the MTS Fintech final project](https://github.com/turbosith/loan_applications/tree/dev)
 - 🌱 I’m currently learning Java and Rust
 - 💬 Ask me about Spring and Datacom
 - ⚡ Fun facts: I love skateboarding, table tennis and stand-up
