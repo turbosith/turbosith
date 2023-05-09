@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and Rust
 - 💬 Ask me about Spring and Datacom
 - ⚡ Fun facts: I love skateboarding, table tennis and stand-up
-- [My resume](https://drive.google.com/drive/folders/1zFvZNot3629YYNP749qi1W-AhJjnV8xd?usp=sharing)
+- 📝 [My resume](https://drive.google.com/drive/folders/1zFvZNot3629YYNP749qi1W-AhJjnV8xd?usp=sharing)
 - 📫 How to reach me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Turbo4442)
